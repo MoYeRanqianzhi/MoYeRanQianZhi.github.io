@@ -73,6 +73,7 @@ export default defineUserConfig(
                     },
                 ],
                 bulletin: {
+                    title: "墨的公告",
                     body: [
                         {
                             type: "text",
@@ -85,7 +86,7 @@ export default defineUserConfig(
                         {
                             type: "text",
                             content: `在这里，墨虞将会分享各种各样的知识`,
-                            style: "font-size: 12px;",
+                            style: "font-size: 15px;",
                         },
                         {
                             type: "hr",
@@ -104,9 +105,40 @@ export default defineUserConfig(
                                     <a/>
                                 </li>
                                 <li>
-                                    <a href="https://github.com/MoYeRanSoft">
-                                        GitHub
+                                    <a href="https://twitter.com/MoYeRanQianZhi">
+                                        X
                                     <a/>
+                                </li>
+                                <li>
+                                    <a href="https://t.me/MoYeRanQianZhi">
+                                        Telegram
+                                    <a/>
+                                </li>
+                            </ul>`,
+                            style: "font-size: 12px;",
+                        },
+                        {
+                            type: "hr",
+                        },
+                        {
+                            type: "title",
+                            content: "邮箱",
+                        },
+                        {
+                            type: "text",
+                            content: `
+                            <ul>
+                                <li>
+                                    MoYeRanQianZhi@gmail.com
+                                </li>
+                                <li>
+                                    MoYeRanQianZhi@outlook.com
+                                </li>
+                                <li>
+                                    MoYeRanQianZhi@proton.me
+                                </li>
+                                <li>
+                                    MoYeRanQianSoft@gmail.com
                                 </li>
                             </ul>`,
                             style: "font-size: 12px;",
@@ -119,7 +151,7 @@ export default defineUserConfig(
                             children: [
                                 {
                                     text: "点赞",
-                                    link: "",
+                                    link: "#",
                                     style: "font-size: 16px",
                                 },
                             ],
