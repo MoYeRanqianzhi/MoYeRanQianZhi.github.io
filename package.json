@@ -1,0 +1,17 @@
+{
+  "name": "mo-blog",
+  "version": "1.0.0",
+  "description": "墨虞大师姐的博客",
+  "repository": "git@github.com:MoYeRanqianzhi/MoYeRanQianZhi.github.io.git",
+  "author": "墨叶染千枝 <MoYeRanQianZhi@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev .",
+    "start": "vuepress dev .",
+    "build": "vuepress build ."
+  },
+  "dependencies": {
+    "vuepress": "2.0.0-rc.0",
+    "vuepress-theme-reco": "2.0.0-rc.5"
+  }
+}
