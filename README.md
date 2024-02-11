@@ -7,7 +7,7 @@ modules:
 #    - Footer
 #    - Comment
 bannerBrand:
-    bgImage: "/bg.svg"
+    bgImage: "/bg/1.svg"
     title: 墨言墨语
     description: 墨虞大师姐的博客。
     tagline: 在这里，墨虞会分享各种各样的知识。
