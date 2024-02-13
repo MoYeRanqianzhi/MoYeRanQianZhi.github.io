@@ -1,6 +1,6 @@
 ---
 title: 五分钟Python速通
-date: 2024/02/12 15:00:00
+date: 2024/02/13 15:00:00
 description: Python新手教学
 tags:
     - 墨虞
