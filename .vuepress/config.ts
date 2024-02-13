@@ -58,7 +58,23 @@ export default defineUserConfig(
                             {
                                 text: "墨虞有话说",
                                 link: "/categories/moyuyouhuashuo/1/"
-                            }
+                            },
+                            {
+                                text: "原创",
+                                link: "/tags/yuanchuang/1/"
+                            },
+                            {
+                                text: "编程",
+                                link: "/categories/biancheng/1/"
+                            },
+                            {
+                                text: "教学",
+                                link: "/categories/jiaoxue/1/"
+                            },
+                            {
+                                text: "Python",
+                                link: "/categories/Python/1/"
+                            },
                         ]
                     },
                     {
@@ -68,7 +84,23 @@ export default defineUserConfig(
                             {
                                 text: "墨虞",
                                 link: "/tags/moyu/1/"
-                            }
+                            },
+                            {
+                                text: "原创",
+                                link: "/tags/yuanchuang/1/"
+                            },
+                            {
+                                text: "编程",
+                                link: "/tags/biancheng/1/"
+                            },
+                            {
+                                text: "教学",
+                                link: "/tags/jiaoxue/1/"
+                            },
+                            {
+                                text: "Python",
+                                link: "/tags/Python/1/"
+                            },
                         ]
                     },
                 ],
