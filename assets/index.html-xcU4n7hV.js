@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-f573b6e8","path":"/tags/shenkongyishiti/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{t as data};
