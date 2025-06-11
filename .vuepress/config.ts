@@ -75,6 +75,14 @@ export default defineUserConfig(
                                 text: "Python",
                                 link: "/categories/Python/1/"
                             },
+                            {
+                                text: "Python",
+                                link: "/categories/shenkongyishiti/1/"
+                            },
+                            {
+                                text: "Python",
+                                link: "/categories/xiaoshuo/1/"
+                            },
                         ]
                     },
                     {
@@ -100,6 +108,14 @@ export default defineUserConfig(
                             {
                                 text: "Python",
                                 link: "/tags/Python/1/"
+                            },
+                            {
+                                text: "Python",
+                                link: "/tags/shenkongyishiti/1/"
+                            },
+                            {
+                                text: "Python",
+                                link: "/tags/xiaoshuo/1/"
                             },
                         ]
                     },
