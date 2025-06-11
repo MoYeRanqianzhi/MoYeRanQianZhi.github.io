@@ -76,11 +76,11 @@ export default defineUserConfig(
                                 link: "/categories/Python/1/"
                             },
                             {
-                                text: "Python",
+                                text: "深空意识体",
                                 link: "/categories/shenkongyishiti/1/"
                             },
                             {
-                                text: "Python",
+                                text: "小说",
                                 link: "/categories/xiaoshuo/1/"
                             },
                         ]
@@ -110,11 +110,11 @@ export default defineUserConfig(
                                 link: "/tags/Python/1/"
                             },
                             {
-                                text: "Python",
+                                text: "深空意识体",
                                 link: "/tags/shenkongyishiti/1/"
                             },
                             {
-                                text: "Python",
+                                text: "小说",
                                 link: "/tags/xiaoshuo/1/"
                             },
                         ]
